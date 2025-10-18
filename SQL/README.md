@@ -40,7 +40,7 @@ The dashboard provides a clear visual summary of key metrics and business perfor
 ## 🖼️ Dashboard Preview
 Below are screenshots of the Excel dashboard:
 
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](images/dashboard.PNG)
 ![Dashboard 2](images/dashboard2.png)
 
 ---
