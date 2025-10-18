@@ -57,3 +57,9 @@ Below are screenshots of the Excel dashboard:
 - **Microsoft Excel** — for dashboard creation and visualization.
 
 ---
+---
+
+## 💬 Author
+**Botayla Amin**  
+Data Analyst | Business Intelligence Enthusiast  
+📧 botaylaamin@gmail.com  
