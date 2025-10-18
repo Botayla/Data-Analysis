@@ -61,5 +61,5 @@ Below are screenshots of the Excel dashboard:
 
 ## 💬 Author
 **Botayla Amin**  
-Data Analyst | Business Intelligence Enthusiast  
+Data Analyst | Data Scientist
 📧 botaylaamin@gmail.com  
