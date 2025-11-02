@@ -15,8 +15,9 @@ This repository includes a series of focused data analysis projects that showcas
     - **Feature Engineering:** Decomposed the messy `revenue` column into **`Revenue_numeric`** and **`Revenue Status`**.
     
     - **Visualization:** Created an interactive dashboard to compare **AVG Salary by Industry, Job Status, and Company Ownership**.
+
     
-    - ![Link to Detailed Project 1 README](EXCEL/README.md)
+  ![Project 1](EXCEL/README.md)
 
 ---
 ---
