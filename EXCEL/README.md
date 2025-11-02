@@ -64,7 +64,7 @@ The second dashboard segment linked salaries to the company's profile.
     * **Revenue Status:** Analyzing the distribution of job postings based on the **Revenue Status** of the company.
  
       
-![Dashboard 2](](Images/Dashboard2.PNG))
+![Dashboard 2](Images/Dashboard2.PNG)
 ---
 
 ## 🤝 Conclusion
