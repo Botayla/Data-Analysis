@@ -52,6 +52,8 @@ The first dashboard focused on internal job metrics like compensation, location,
     * **Job Status:** Salary comparison between **Remote**, **On-site**, and **Hybrid** positions.
     * **Seniority:** Count of job postings by **Junior, Midlevel, and Senior** roles.
 
+![Dashboard 1](images/dashboard.PNG)
+---
 ### 2. Dashboard Focus (Company Metrics)
 The second dashboard segment linked salaries to the company's profile.
 
@@ -60,13 +62,15 @@ The second dashboard segment linked salaries to the company's profile.
     * **Industry Impact:** Comparing the average salary across different **Industries** (e.g., Technology vs. Finance).
     * **Ownership Type:** Visualizing the salary difference between **Public** and **Private** companies.
     * **Revenue Status:** Analyzing the distribution of job postings based on the **Revenue Status** of the company.
-
+![Dashboard 2](images/dashboard1.PNG)
 ---
 
 ## 🤝 Conclusion
 
 This project successfully demonstrated end-to-end proficiency in data cleaning (handling nulls, complex extraction) and feature engineering (splitting messy columns) in Excel, concluding with clear, actionable insights through a comprehensive dashboard.
 
-## Author 
+## 💬 Author
+**Botayla Amin**  
+Data Analyst | Data Scientist
 
-botayla 
+📧 botaylaamin@gmail.com  
