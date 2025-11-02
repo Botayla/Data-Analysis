@@ -52,7 +52,7 @@ The first dashboard focused on internal job metrics like compensation, location,
     * **Job Status:** Salary comparison between **Remote**, **On-site**, and **Hybrid** positions.
     * **Seniority:** Count of job postings by **Junior, Midlevel, and Senior** roles.
 
-![Dashboard 1](images/dashboard.PNG)
+![Dashboard 1](Images/Dashboard1.PNG)
 ---
 ### 2. Dashboard Focus (Company Metrics)
 The second dashboard segment linked salaries to the company's profile.
@@ -62,7 +62,9 @@ The second dashboard segment linked salaries to the company's profile.
     * **Industry Impact:** Comparing the average salary across different **Industries** (e.g., Technology vs. Finance).
     * **Ownership Type:** Visualizing the salary difference between **Public** and **Private** companies.
     * **Revenue Status:** Analyzing the distribution of job postings based on the **Revenue Status** of the company.
-![Dashboard 2](images/dashboard1.PNG)
+ 
+      
+![Dashboard 2](](Images/Dashboard2.PNG))
 ---
 
 ## 🤝 Conclusion
