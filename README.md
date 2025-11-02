@@ -10,11 +10,11 @@ This repository includes a series of focused data analysis projects that showcas
   
 * **Key Activities & Achievements:**
 
-    - **Advanced Data Pre-processing:** Performed extensive cleaning including **removing Nulls** and **splitting highly unstructured columns** (`revenue` and `salary`) into multiple standardized, numerical, and categorical features.
+     - **Advanced Data Pre-processing:** Performed extensive cleaning including **removing Nulls** and **splitting highly unstructured columns** (`revenue` and `salary`) into multiple standardized, numerical, and categorical features.
     
-    - **Feature Engineering:** Decomposed the messy `revenue` column into **`Revenue_numeric`** and **`Revenue Status`**.
+     - **Feature Engineering:** Decomposed the messy `revenue` column into **`Revenue_numeric`** and **`Revenue Status`**.
     
-    - **Visualization:** Created an interactive dashboard to compare **AVG Salary by Industry, Job Status, and Company Ownership**.
+     - **Visualization:** Created an interactive dashboard to compare **AVG Salary by Industry, Job Status, and Company Ownership**.
 
     
   ![Project 1](EXCEL/README.md)
