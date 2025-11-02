@@ -20,6 +20,21 @@ This repository includes a series of focused data analysis projects that showcas
   ![Project 1](EXCEL/README.md)
 
 ---
+### 🛍️ Project 2: AdventureWorks Data Analysis
+
+* **Dataset Focus:** Analysis of the **AdventureWorks sales and finance dataset**, focusing on performance, profitability, and product trends.
+ 
+* **Tools Used:** SQL 💾 & Microsoft Excel 📘
+
+* **Key Activities & Achievements:**
+
+    - **Comprehensive SQL Pre-processing:** Performed deep data cleaning in **SQL Server**, including handling **Nulls**, **Duplicates**, and verifying **data consistency** across multiple relational tables (Products, Resellers, Targets).
+     
+    - **Advanced Excel Modeling:** Built an interactive **Excel Dashboard** utilizing **Data Modeling** to connect relational tables.
+    - 
+    - **KPI Calculation:** Created complex **Measures** (Target Achievement Percentage, total Profits, avg profit)and visualized in  **Cards** 
+   
+     ![Project 2](SQL/README.md)
 ---
 
 ---
