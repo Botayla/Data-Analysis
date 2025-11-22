@@ -4,6 +4,9 @@
 This project focuses on performing an in-depth data analysis of pizza sales 🍕 to extract Key Performance Indicators (KPIs), understand customer behavior, identify temporal patterns (daily, hourly, and monthly), and support strategic business decisions.
 
 
+
+
+
 **📊 Project Overview**
 
 What did this project focus on? 👇
@@ -78,8 +81,8 @@ This analysis helped us uncover critical findings such as:
 ## 🖼️ Dashboard Preview
 Below are screenshots of the Excel dashboard:
 
-![Dashboard 1](images/dashboard.PNG)
-![Dashboard 2](images/dashboard1.PNG)
+![Dashboard 1](images/dashboard 1.PNG)
+![Dashboard 2](images/dashboard 2.PNG)
 
 ## 💬 Author
 **Botayla Amin**  
