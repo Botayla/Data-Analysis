@@ -81,8 +81,8 @@ This analysis helped us uncover critical findings such as:
 ## 🖼️ Dashboard Preview
 Below are screenshots of the Excel dashboard:
 
-![Dashboard 1](images/dashboard 1.PNG)
-![Dashboard 2](images/dashboard 2.PNG)
+![Dashboard 1](Power BI/images/dashboard 1.PNG)
+![Dashboard 2](Power BI/images/dashboard 2.PNG)
 
 ## 💬 Author
 **Botayla Amin**  
