@@ -78,11 +78,12 @@ This analysis helped us uncover critical findings such as:
 
   - Peak Time Identification: (Based on the Charts) Days like Thursday, Friday, and Saturday, and hours around 5 PM to 6 PM are peak times that demand maximum operational readiness.
 
+
 ## 🖼️ Dashboard Preview
 Below are screenshots of the Excel dashboard:
 
-![Dashboard 1](Power BI/images/dashboard 1.PNG)
-![Dashboard 2](Power BI/images/dashboard 2.PNG)
+![Dashboard Page 1](images/dashboard 1.PNG) 
+![Dashboard Page 2](images/dashboard 2.PNG)
 
 ## 💬 Author
 **Botayla Amin**  
