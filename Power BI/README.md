@@ -1,5 +1,8 @@
-**🍕 Pizza Sales Data Analysis Project**
+ **🍕 Pizza Sales Data Analysis Project**
+
+ 
 This project focuses on performing an in-depth data analysis of pizza sales 🍕 to extract Key Performance Indicators (KPIs), understand customer behavior, identify temporal patterns (daily, hourly, and monthly), and support strategic business decisions.
+
 
 **📊 Project Overview**
 
