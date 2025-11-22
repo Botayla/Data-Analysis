@@ -82,7 +82,7 @@ This analysis helped us uncover critical findings such as:
 ## 🖼️ Dashboard Preview
 Below are screenshots of the power bi dashboard:
 
-![Dashboard Page 1](Power BI/images/dashboard 1.PNG) 
+![Dashboard Page 1](https://raw.githubusercontent.com/Botayla/Data-Analysis/main/Power%20BI/images/dashboard 1.PNG)
 ![Dashboard Page 2](images/dashboard 2.PNG)
 
 ## 💬 Author
