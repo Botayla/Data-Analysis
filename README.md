@@ -36,5 +36,21 @@ This repository includes a series of focused data analysis projects that showcas
    
      ![Project 2](SQL/README.md)
 ---
+### 🍕 Project 3: Pizza Sales Data Analysis
+* **Dataset Focus:** In-depth data analysis of pizza sales 🍕 to extract KPIs, understand customer behavior, and identify temporal patterns (daily/hourly peaks) to support inventory and marketing strategies.
+
+**Tool Used:** Power BI
+
+**Key Activities & Achievements 🛠️** 
+
+  - Data Preprocessing: Extracted Day/Month Names and ensured correct data typing for accurate analysis.
+
+  - Interactive Dashboard: Built a Power BI dashboard featuring 5 essential KPIs (e.g., Total Revenue) and analytical charts (e.g., Revenue by Category/Size).
+
+  - Analysis: Identified Top/Bottom 5 Pizzas and visualized peak order timings (5-6 PM, Thu-Sat).
+
+  - Key Insight 🧠: Large and Classic pizzas drive the most revenue. The Thai Chicken Pizza is the top-earning individual product, and peak operational readiness is required on weekends around dinner time.
+
+  ![Project 3](Power_BI/README.md)
 
 ---
