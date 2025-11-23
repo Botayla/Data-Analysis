@@ -83,6 +83,7 @@ This analysis helped us uncover critical findings such as:
 Below are screenshots of the power bi dashboard:
 
 ![dashboard page1](images/dashboard.PNG)
+![dashboard page2](images/dashboard1.PNG)
 
 ## 💬 Author
 **Botayla Amin**  
