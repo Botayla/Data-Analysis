@@ -23,7 +23,7 @@ This dashboard provides a high-level overview of the company's financial perform
 * **Key Metrics:** Total Revenue, Total Orders.
 * **Payment Methods:** Breakdown of preferred payment types (Credit Card, Boleto, etc.) by customers.
 
-![Sales Dashboard Screenshot](Tableau/images/dashboard1.jpeg)
+![Sales Dashboard Screenshot](images/dashboard1.jpeg)
 
 ---
 
