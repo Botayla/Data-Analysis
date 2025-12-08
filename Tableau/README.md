@@ -36,7 +36,7 @@ Dedicated to supply chain efficiency, this dashboard analyzes whether orders are
 * **Freight Cost Analysis:** Comparing average shipping costs across different states.
 * **Shipping Speed Trends:** Monitoring the average delivery time (in days) over the years to assess logistics improvements or bottlenecks.
 
-![Logistics Dashboard Screenshot](Tableau/images/dashboard2.jpeg)
+![Logistics Dashboard Screenshot](images/dashboard2.jpeg)
 
 ---
 
@@ -49,7 +49,7 @@ This dashboard focuses on the "Voice of the Customer" to understand how service 
 * **Impact of Delays on Satisfaction:** Comparing the **Average Rating** for orders delivered "On Time" vs. those delivered "Late".
 * **Satisfaction Trends:** Tracking the fluctuation of customer satisfaction scores over the years.
 
-![Reviews Dashboard Screenshot](Tableau/images/dashboard3.jpeg)
+![Reviews Dashboard Screenshot](images/dashboard3.jpeg)
 
 ---
 
