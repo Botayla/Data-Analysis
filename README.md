@@ -63,11 +63,11 @@ This repository includes a series of focused data analysis projects that showcas
 
 **Key Activities & Achievements 🛠️** 
 
-    - Advanced Data Modeling: Built a relationship model connecting 5+ tables (Orders, Customers, Payments, Geolocation) to enable cross-dimensional analysis.
+  - Advanced Data Modeling: Built a relationship model connecting 5+ tables (Orders, Customers, Payments, Geolocation) to enable cross-dimensional analysis.
     
-    - Logistics KPI Creation: Developed complex Calculated Fields to track delivery performance, specifically distinguishing 'On Time' vs. 'Late' orders based on estimated delivery dates.
+- Logistics KPI Creation: Developed complex Calculated Fields to track delivery performance, specifically distinguishing 'On Time' vs. 'Late' orders based on estimated delivery dates.
     
-    - Multi-Faceted Storytelling: Designed 3 specialized dashboards:
+- Multi-Faceted Storytelling: Designed 3 specialized dashboards:
     
         1. Sales & Revenue: Tracking revenue growth, seasonality (Black Friday spikes), and payment method preferences.
         
@@ -75,7 +75,7 @@ This repository includes a series of focused data analysis projects that showcas
         
         3. Customer Reviews: Analyzing the correlation between delivery delays and customer ratings (1-5 stars).
 
-     ![Project 4](Tableau/README.md)   
+  ![Project 4](Tableau/README.md)   
 
 ---
      
