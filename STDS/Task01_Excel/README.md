@@ -43,32 +43,45 @@ The original `Salary` column contained salary ranges (e.g., 150705). This requir
 
 ---
 
-## 📈 Dashboard and Key Insights
+## 📈 Dashboard Overview & Visual Insights
 
+The dashboard is designed as a two-page interactive report. Each visualization addresses a specific question regarding the Data Science job market in 2025.
 
-### 1. Dashboard Focus (General Metrics)
-The first dashboard focused on internal job metrics like compensation, location, and job type.
+### 📊 Dashboard 1: Job Market & Role Analysis
+*Focuses on the "Candidate Perspective"—analyzing roles, seniority, and work flexibility.*
 
+#### 1. Average Salary by Job Title (Bar Chart)
+* **Visualization:** A comparison of the `AVG_Salary` across different job titles (e.g., Data Scientist, Machine Learning Engineer, Data Analyst).
+* **Insight:** Identifies which technical roles command the highest market value( the most is Data Engineer ), helping candidates choose their specialization path.
 
-* **Key Insights Uncovered:**
-    * **Job Titles:** Comparison of `AVG_Salary` across roles like Data Analyst, Data Scientist, and Machine Learning Engineer.
-    * **Job Status:** Salary comparison between **Remote**, **On-site**, and **Hybrid** positions.
-    * **Seniority:** Count of job postings by **Junior, Midlevel, and Senior** roles.
+#### 2. Salary by Work Status (Column Chart)
+* **Visualization:** Breaks down the average salary based on the work mode: **Remote**, **On-site**, or **Hybrid**.
+* **Insight:** Reveals whether remote positions offer competitive pay compared to office-based roles and how "On site" models are positioned financially.
+
+#### 3. Job Postings by Seniority Level (Bar Chart)
+* **Visualization:** Displays the count (volume) of job openings categorized by **Junior**, **Mid-level**, **Senior**, and **Lead** levels.
+* **Insight:** Highlights the market demand distribution—showing whether the market is currently hiring more entry-level talent or seeking experienced leaders.
 
 ![Dashboard 1](Dashboard1.PNG)
+
 ---
-### 2. Dashboard Focus (Company Metrics)
-The second dashboard segment linked salaries to the company's profile.
 
+### 🏢 Dashboard 2: Company Profile & Industry Economics
+*Focuses on the "Employer Perspective"—analyzing how industry and company financial health impact hiring.*
 
-* **Key Insights Uncovered:**
-    * **Industry Impact:** Comparing the average salary across different **Industries** (e.g., Technology vs. Finance).
-    * **Ownership Type:** Visualizing the salary difference between **Public** and **Private** companies.
-    * **Revenue Status:** Analyzing the distribution of job postings based on the **Revenue Status** of the company.
- 
-      
+#### 1. Salary Trends by Industry (Bar Chart)
+* **Visualization:** Ranks various industries (e.g., Technology, Finance, Healthcare) based on the average salary they offer.
+* **Insight:** Pinpoints the most lucrative sectors for Data Scientists to target.
+
+#### 2. Ownership Type Analysis (Pie/Donut Chart) 
+* **Visualization:** Compares compensation packages between **Public** (Stock-market listed) and **Private** companies.
+* **Insight:** Determines if publicly traded companies, with typically transparent financials, pay significantly more than private entities.
+
+#### 3. Revenue Status Distribution (Chart)
+* **Visualization:** Shows the proportion of job postings coming from companies that **report their revenue** vs. those that do not.
+* **Insight:** Provides a view of data transparency in the market and correlates established financial reporting with hiring activity.
+
 ![Dashboard 2](Dashboard2.PNG)
----
 
 ## 🤝 Conclusion
 
