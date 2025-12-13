@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d643cc94-c49b-4a1e-9cf3-98a7ae2d4574" /># AdventureWorks Data Analysis Project
+AdventureWorks Data Analysis Project
 
 This project focuses on performing **data analysis** on the AdventureWorks dataset using **SQL** and **Excel**.
 
