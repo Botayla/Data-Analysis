@@ -1,4 +1,4 @@
-# AdventureWorks Data Analysis Project
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d643cc94-c49b-4a1e-9cf3-98a7ae2d4574" /># AdventureWorks Data Analysis Project
 
 This project focuses on performing **data analysis** on the AdventureWorks dataset using **SQL** and **Excel**.
 
@@ -14,7 +14,7 @@ Data preprocessing was done using **SQL Server**, where I:
 - Checked for **null values** and replaced them appropriately.  
 - Handled **duplicates** using SQL scripts.  
 - Cleaned and standardized categorical values (e.g., replacing `NA` with `UNKNOWN`).  
-- Verified data consistency across multiple tables (Products, Regions, Resellers, Salespersons, and Targets) using Dynamic SQL.
+- Verified data consistency across multiple tables (Products, Regions, Resellers, Salespersons, and Targets) using `Dynamic SQL`.
 
 ---
 
@@ -22,27 +22,34 @@ Data preprocessing was done using **SQL Server**, where I:
 After cleaning the data, I built an interactive **Excel dashboard** that includes:
 - **modeling** to connect related tables.
 - **Measures** to calculate Profits and Target Achievement Percentage
-- **Cards** showing:
-  - Total Sales  
-  - Total Profit  
-  - Total Quantity Sold  
-  - Average Sales  
+- Key Performance Indicators (KPI Cards) 📌
+    * **Purpose:** Provides an immediate snapshot of the business's overall health.
+    * **Metrics:** Displays **Total Sales**, **Total Profit**, **Total Quantity Sold**, and **Average Order Value**.
+      
 - **Charts** visualizing:
-  - Sales vs. Cost over time  
-  - Comparison between Categories and Subcategories  
-  - Other performance-related insights
-  - And More
+  -  Sales vs. Total Cost Trend (Line Chart) 📉
+        * **Analysis:** Tracks the movement of Revenue against Costs over time (Months).
+        * **Insight:** Helps identify seasonal trends and periods where costs spiked disproportionately to sales, affecting profit margins.
+          
+  - Sales by Category & Subcategory🚲
+        * **Analysis:** A comparative view of sales performance across main categories (e.g., Bikes, Accessories) and detailed subcategories.
+        * **Insight:** Identifies the "Bikes" products driving the majority of revenue versus underperforming items , when The most     category sold is "Components".
 
-The dashboard provides a clear visual summary of key metrics and business performance.
+    ![Dashboard 1](dashboard1.PNG)
+    
+  - Sales by Region 🌍
+      * **Analysis:** Displays the geographical distribution of sales across different territories (e.g., USA, Europe, UK).
+      * **Insight:** Pinpoints the highest-revenue locations, highlighting that specific regions (USA) outperform others, which helps in planning regional marketing strategies.
+ 
+   - Sales vs. Cost by Business Type  🏢
+      * **Analysis:** Compares the Total Sales Revenue against Total Product Cost for different reseller types (e.g., Warehouse, Value Added Reseller, Specialty Bike Shop).
+      * **Insight:** Evaluates the profitability of each business partner model. It reveals that while **"Warehouses"** might contribute the highest revenue volume, other types like **"Specially Bike Shop"** might yield better profit margins due to lower operational costs relative to sales.
+      
+      
+    ![Dashboard 2](dashboard2.PNG)
 
----
-
-## 🖼️ Dashboard Preview
-Below are screenshots of the Excel dashboard:
-
-![Dashboard 1](dashboard1.PNG)
-![Dashboard 2](dashboard2.PNG)
-
+        
+  
 ---
 
 ## 🧠 Key Insights
