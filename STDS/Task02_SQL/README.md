@@ -28,21 +28,29 @@ After cleaning the data, I built an interactive **Excel dashboard** that include
       
 - **Charts** visualizing:
   -  Sales vs. Total Cost Trend (Line Chart) 📉
+    
         * **Analysis:** Tracks the movement of Revenue against Costs over time (Months).
+          
         * **Insight:** Helps identify seasonal trends and periods where costs spiked disproportionately to sales, affecting profit margins.
           
   - Sales by Category & Subcategory🚲
+    
         * **Analysis:** A comparative view of sales performance across main categories (e.g., Bikes, Accessories) and detailed subcategories.
+    
         * **Insight:** Identifies the "Bikes" products driving the majority of revenue versus underperforming items , when The most     category sold is "Components".
 
     ![Dashboard 1](dashboard1.PNG)
     
   - Sales by Region 🌍
+
       * **Analysis:** Displays the geographical distribution of sales across different territories (e.g., USA, Europe, UK).
+        
       * **Insight:** Pinpoints the highest-revenue locations, highlighting that specific regions (USA) outperform others, which helps in planning regional marketing strategies.
  
    - Sales vs. Cost by Business Type  🏢
+     
       * **Analysis:** Compares the Total Sales Revenue against Total Product Cost for different reseller types (e.g., Warehouse, Value Added Reseller, Specialty Bike Shop).
+        
       * **Insight:** Evaluates the profitability of each business partner model. It reveals that while **"Warehouses"** might contribute the highest revenue volume, other types like **"Specially Bike Shop"** might yield better profit margins due to lower operational costs relative to sales.
       
       
