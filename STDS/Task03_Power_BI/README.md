@@ -69,6 +69,8 @@ these cards provide immediate visibility into the store's core metrics:
 ![dashdoard 1 ](dashboard.PNG)
 
 ---
+## 📊 Dashboard Overview (Page 2)
+
 
 ### 1. Busiest Days & Hours (Heatmap / Matrix) 
 **Visualization**: A matrix view plotting Days of the Week against Hours of the Day, with the values representing the volume of Total Orders.
@@ -102,5 +104,13 @@ these cards provide immediate visibility into the store's core metrics:
 * **Motivation:** Serves as a quick health check for the sales team to push for more sales if the needle hasn't hit the target yet.  
 
 ![dashdoard 2 ](dashboard1.PNG)
+
+---
+
+## 💬 Author
+**Botayla Amin**  
+Data Analyst | Data Scientist
+
+📧 botaylaamin@gmail.com 
 
 ---
