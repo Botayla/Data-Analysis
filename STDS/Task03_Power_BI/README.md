@@ -3,7 +3,7 @@
  
 This project focuses on performing an in-depth data analysis of pizza sales 🍕 to extract Key Performance Indicators (KPIs), understand customer behavior, identify temporal patterns (daily, hourly, and monthly), and support strategic business decisions.
 
-
+---
 **⚙️ Data Preprocessing Stage**
 In this stage, the data was prepared to be suitable for analysis, which involved two crucial steps:
 
@@ -67,15 +67,40 @@ these cards provide immediate visibility into the store's core metrics:
     * **Actionable Insight:** These items might need re-evaluation. The business could consider running special promotions to clear inventory, improving the recipe, or removing them from the menu entirely to reduce waste and operational complexity.
 
 ![dashdoard 1 ](dashboard.PNG)
+
 ---
 
-### 2. Daily Trend for Total Orders (Bar Chart) 📅
+### 1. Busiest Days & Hours (Heatmap / Matrix) 
+**Visualization**: A matrix view plotting Days of the Week against Hours of the Day, with the values representing the volume of Total Orders.
+* **Analysis:** : This chart helps visualize traffic density. Darker or higher values indicate peak rush hours, while lighter values indicate slow periods.
+
+* **Insight:** Peak Times: Identifies specific time slots (e.g., Thursday/Friday evenings from 6 PM to 9 PM) where the store experiences the highest demand.
+
+* **Actionable Insight:** Crucial for Staffing & Operations. Managers can use this data to schedule more staff and prepare more dough during these specific windows to reduce wait times, and reduce staff during low-traffic hours (e.g., weekdays before 12 PM) to save costs.
+* 
+### 2. Daily Trend for Total Orders 
 * **Visualization:** Displays the distribution of total orders across different days of the week.
 * **Analysis:** Aggregates order volume by day (Sunday to Saturday).
-* **Insight:** Identifies the busiest days of the week. Typically, **Fridays and Saturdays** show the highest traffic, indicating a need for increased staff and inventory during weekends.
+* **Insight:** Identifies the busiest days of the week. Typically, **Fridays** show the highest traffic, indicating a need for increased staff and inventory during weekends.
 
-### 3. Monthly Trend for Total Orders (Area/Line Chart) 📈
+### 3. Monthly Trend for Total Orders 
 * **Visualization:** Tracks the total number of orders across different months of the year.
 * **Analysis:** Shows the fluctuation in sales volume from January to December.
 * **Insight:** Highlights seasonal patterns and peak periods (e.g., spikes during holiday seasons or summer months), aiding in long-term resource planning.
 
+### 4. Hourly Trend for Total Orders 
+* **Visualization:**  A line chart representing the volume of orders placed during each hour of the day (from opening to closing time).
+* **Analysis:**  Provides a continuous view of customer traffic flow throughout the operational hours.
+* **Insight:**  Lunch & Dinner Rushes: Typically reveals two major spikes: one around 12:00 PM - 1:00 PM (Lunch) and a larger peak between 5:00 PM - 8:00 PM (Dinner).
+
+* **Operational Planning:** Helps managers anticipate exact "rush hours" to ensure fresh food preparation aligns with demand, minimizing wait times.
+
+### 5. Monthly Orders vs. Target (Gauge Chart) 
+* **Visualization:**  A gauge meter comparing the Current Total Orders (or Revenue) against a pre-set Monthly Target (Goal).
+* **Analysis:**  Acts as a visual "progress bar" for the business objectives.
+* **Insight:** Performance Tracking: Instantly shows if the store is "On Track" (Green) or "Behind Target" (Red) for the month.
+* **Motivation:** Serves as a quick health check for the sales team to push for more sales if the needle hasn't hit the target yet.  
+
+![dashdoard 2 ](dashboard1.PNG)
+
+---
