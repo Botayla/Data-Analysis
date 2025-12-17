@@ -17,7 +17,7 @@ This repository includes a series of focused data analysis projects that showcas
      - **Visualization:** Created an interactive dashboard to compare **AVG Salary by Industry, Job Status, and Company Ownership**.
 
     
-  ![Project 1](EXCEL/README.md)
+  ![Project 1](Task01_Excel/README.md)
 
 ---
 ### 🛍️ Project 2: AdventureWorks Data Analysis
@@ -34,7 +34,7 @@ This repository includes a series of focused data analysis projects that showcas
     - 
     - **KPI Calculation:** Created complex **Measures** (Target Achievement Percentage, total Profits, avg profit)and visualized in  **Cards** 
    
-     ![Project 2](SQL/README.md)
+     ![Project 2](Task02_SQL/README.md)
 ---
 ### 🍕 Project 3: Pizza Sales Data Analysis
 
@@ -52,7 +52,7 @@ This repository includes a series of focused data analysis projects that showcas
 
   - Key Insight 🧠: Large and Classic pizzas drive the most revenue. The Thai Chicken Pizza is the top-earning individual product, and peak operational readiness is required on weekends around dinner time.
 
-  ![Project 3](Power_BI/README.md)
+  ![Project 3](Task03_Power_BI/README.md)
 
 ---
 ### 📦 Project 4: Brazilian E-Commerce Analysis (Olist)
@@ -75,7 +75,7 @@ This repository includes a series of focused data analysis projects that showcas
         
         3. Customer Reviews: Analyzing the correlation between delivery delays and customer ratings (1-5 stars).
 
-  ![Project 4](Tableau/README.md)   
+  ![Project 4](Task04_Tableau/README.md)   
 
 ---
      
